@@ -2,7 +2,10 @@ h1,h2,nav,div,section {
     text-decoration: none;
     text-align: center;
 }
-        
+
+a {
+    font-size: 23px;
+  }  
 #p-main {
     color: grey;
     font-size: 15px;
@@ -17,11 +20,12 @@ img {
     width: 40%
 }
 
-.google-link{
-    color: yellowgreen;
-    text-decoration: none;            
+.repo-link{
+    color: red;
+    text-decoration: underline;            
     cursor: pointer;
     text-align: center;
+    font-size: 18px;
              
 }
 
@@ -34,9 +38,12 @@ img {
     color: white;
     text-align: center;
    }
-   .CV {
+.CV {
     color: blue;
     text-decoration: underline;            
     cursor: pointer;
+    font-size: 18px;
    }
+
+   
    
