@@ -5,6 +5,9 @@ h1,h2,nav,div,section {
 
 a {
     font-size: 23px;
+    text-decoration: aqua;
+    text-align: center;
+  
   }  
 #p-main {
     color: grey;
@@ -38,6 +41,7 @@ img {
     color: white;
     text-align: center;
    }
+
 .CV {
     color: blue;
     text-decoration: underline;            
